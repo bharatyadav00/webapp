@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
-     <h1 class="text-center">CI/CD is working</h1>
+     <h1 class="text-center">CI/CD is working with Arun</h1>
       <img src="http://pluspng.com/img-png/have-a-nice-day-png-picture-of-have-a-nice-day-630.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">Thanks for being with us</h1>
